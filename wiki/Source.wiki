@@ -1,0 +1,7 @@
+WvStreams source code is stored in git.
+
+To browse the source, visit http://repo.or.cz/w/wvstreams.git.
+
+To check it out of version control, use this command:
+
+    git clone git://repo.or.cz/wvstreams.git 
