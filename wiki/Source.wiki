@@ -1,4 +1,4 @@
-WvStreams source code is stored in git.
+!WvStreams source code is stored in git.
 
 To browse the source, visit http://repo.or.cz/w/wvstreams.git.
 
